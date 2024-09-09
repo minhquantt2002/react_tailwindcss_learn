@@ -1,9 +1,9 @@
 import { ReactNode } from "react";
 
 export interface JobProps {
-  title: String;
+  title: string;
   icon: ReactNode;
-  bgClass: String;
+  bgClass: string;
 }
 
 export const Job: React.FC<JobProps> = ({ title, icon, bgClass }) => {
@@ -12,7 +12,7 @@ export const Job: React.FC<JobProps> = ({ title, icon, bgClass }) => {
       className={`${bgClass} flex flex-col items-center justify-center rounded-lg p-4`}
     >
       {icon}
-      <p className="font-popi pt-4">{title}</p>
+      <p className="pt-4 font-popi">{title}</p>
     </div>
   );
 };

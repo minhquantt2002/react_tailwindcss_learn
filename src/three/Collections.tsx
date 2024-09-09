@@ -41,8 +41,8 @@ export const Collections = () => {
             />
           </div>
           <div className="flex pt-6">
-            <p className="font-popi grow text-xl font-medium">People</p>
-            <p className="font-popi flex items-center text-xl">
+            <p className="grow font-popi text-xl font-medium">People</p>
+            <p className="flex items-center font-popi text-xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
@@ -85,8 +85,8 @@ export const Collections = () => {
             />
           </div>
           <div className="flex pt-6">
-            <p className="font-popi grow text-xl font-medium">People</p>
-            <p className="font-popi flex items-center text-xl">
+            <p className="grow font-popi text-xl font-medium">People</p>
+            <p className="flex items-center font-popi text-xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
@@ -129,8 +129,8 @@ export const Collections = () => {
             />
           </div>
           <div className="flex pt-6">
-            <p className="font-popi grow text-xl font-medium">People</p>
-            <p className="font-popi flex items-center text-xl">
+            <p className="grow font-popi text-xl font-medium">People</p>
+            <p className="flex items-center font-popi text-xl">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"

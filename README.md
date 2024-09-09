@@ -52,3 +52,4 @@ export default tseslint.config({
 other link:
 [Hero icon](https://heroicons.com/outline)
 [Figma design](https://arc.net/folder/B4B22D05-901D-44DB-BF03-0B85E3FB617F)
+[Flowbite icon](https://flowbite.com/icons/)
